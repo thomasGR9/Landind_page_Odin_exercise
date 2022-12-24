@@ -25,18 +25,22 @@ color: #e5e7eb;
 }
 
 .container1 {
+display: flex;
+flex-flow: row nowrap;
+justify-content: center;
+align-items: center;
+background-color: #1f2937;
+}
+
+.kid11 {
 
 }
 
-.kid1.1 {
+.kid12 {
 
 }
 
-.kid1.2 {
-
-}
-
-.container1.2 {
+.container12 {
 
 }
 
@@ -44,19 +48,19 @@ color: #e5e7eb;
 
 }
 
-.container2.1 {
+.container21 {
 
 }
 
-.kid2.1.1 {
+.kid211 {
 
 }
 
-.container2.2 {
+.container22 {
 
 }
 
-.kid2.2.1 {
+.kid221 {
 
 }
 
@@ -64,7 +68,7 @@ color: #e5e7eb;
 
 }
 
-.kid3.1 {
+.kid31 {
 
 }
 
@@ -72,15 +76,15 @@ color: #e5e7eb;
 
 }
 
-.container4.1 {
+.container41 {
 
 }
 
-.kid4.1.1 {
+.kid411 {
 
 }
 
-.kid4.1.2 {
+.kid412 {
 
 }
 
