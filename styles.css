@@ -1,0 +1,99 @@
+.header_container {
+display: flex;
+flex-flow: row nowrap;
+justify-content: space-around;
+align-items: center;
+background-color: #1f2937;
+}
+
+
+.header {
+flex: 0 1 auto;
+font-size: 24px;
+color: #f9faf8;
+}
+
+.header_ul {
+display: inline-block;
+}
+
+.big_container {
+
+}
+
+.container1 {
+
+}
+
+.kid1.1 {
+
+}
+
+.kid1.2 {
+
+}
+
+.container1.2 {
+
+}
+
+.container2{
+
+}
+
+.container2.1 {
+
+}
+
+.kid2.1.1 {
+
+}
+
+.container2.2 {
+
+}
+
+.kid2.2.1 {
+
+}
+
+.container3 {
+
+}
+
+.kid3.1 {
+
+}
+
+.container4 {
+
+}
+
+.container4.1 {
+
+}
+
+.kid4.1.1 {
+
+}
+
+.kid4.1.2 {
+
+}
+
+.footer_container {
+
+}
+
+.footer {
+
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    font-size: 18px;
+    color: #e5e7eb;
+}
