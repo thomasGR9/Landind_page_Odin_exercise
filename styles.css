@@ -153,6 +153,12 @@ height: 110px;
 
 .footer_container {
     background-color: #1f2937;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    margin-bottom: 0px;
 }
 
 .footer {
