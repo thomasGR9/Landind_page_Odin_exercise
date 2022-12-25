@@ -124,11 +124,23 @@ width: 430px;
 }
 
 .container4 {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 280px;
 
 }
 
 .container41 {
-
+display: flex;
+flex-flow: row nowrap;
+justify-content: space-evenly;
+align-items: center;
+background-color: #3882F6;
+border-radius: 5px;
+width: 700px;
+height: 110px;
 }
 
 .kid411 {
@@ -140,7 +152,7 @@ width: 430px;
 }
 
 .footer_container {
-
+    background-color: #1f2937;
 }
 
 .footer {
@@ -194,4 +206,28 @@ p {
     font-weight: bold;
     font-size: 15px;
     text-align: end;
+}
+
+h3 {
+    font-weight: bold;
+    color: white;
+    margin: 0px;
+    font-size: 16px;
+}
+
+#lastone {
+    color: white;
+    font-size: 12px;
+}
+
+#signup2 {
+    color: white;
+    border: solid white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 12px;
+    padding-bottom: 3px;
+    padding-top: 3px;
+    padding-left: 21px;
+    padding-right: 21px;
 }
