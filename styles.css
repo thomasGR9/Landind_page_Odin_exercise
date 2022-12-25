@@ -88,7 +88,7 @@ margin: 7px;
 .kid221 {
 padding: 50px;
 border-radius: 10px;
-border: solid blue;
+border: solid #3882F6;
 }
 
 .container23 {
@@ -109,10 +109,18 @@ text-align: center;
 
 .container3 {
 background-color: #e5e7eb;
+height: 302px;
+display: flex;
+flex-flow: row nowrap;
+justify-content: center;
+align-items: center;
 }
 
 .kid31 {
-
+font-size: 20px;
+font-family: light italic;
+color: #1f2937;
+width: 430px;
 }
 
 .container4 {
@@ -170,7 +178,7 @@ p {
 
 #Sign_up {
     color: white;
-    background-color: blue;
+    background-color: #3882F6;
     font-size: 13px;
     font-weight: bold;
     border-radius: 5px;
@@ -180,4 +188,10 @@ p {
     padding-left: 20px;
     display: inline-block;
     margin-top: 7px;
+}
+
+#thor {
+    font-weight: bold;
+    font-size: 15px;
+    text-align: end;
 }
