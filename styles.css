@@ -54,7 +54,7 @@ padding-top: 80px;
     flex-flow: row nowrap;
     justify-content: center;
     align-items: center;
-    background-color: #e5e7eb;;
+    background-color: #6b6d71;;
     padding: 80px;
 }
 
@@ -181,6 +181,7 @@ p {
 
 #placeholder {
     font-size: 13px; 
+    color: white;
 }
 
 #Sign_up {
